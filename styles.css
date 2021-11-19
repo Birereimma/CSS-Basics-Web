@@ -1,0 +1,43 @@
+body {
+    background-color:azure;
+    color:black;
+    font-family: sans-serif;
+    font-size: 1em;
+    padding:0 30px 30px 30px;
+    border:10px solid black;
+    
+
+   
+    
+}
+h1 {
+    color:green;
+    font-family:'Courier New', Courier, monospace;
+   
+}
+h2 {
+    color:goldenrod;
+    font-family:'Courier New', Courier, monospace;
+
+}
+img {
+    display: block;
+    
+}
+
+#css-Anatomy-heading {
+    color:yellowgreen;
+}
+
+#note-important {
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+    font-size: 1.2em;
+}
